@@ -1,0 +1,10 @@
+Zainudin###Honda###2
+Anton###Toyota###1
+Tina###Daihatsu###1
+Bambang###Nissan###1
+Han###Daihatsu###2
+doko###Honda###22
+aji###Nissan###1
+pang###Suzuki###1
+ngestu###Toyota###10
+ganteng###Nissan###1
