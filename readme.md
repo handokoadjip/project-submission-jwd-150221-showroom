@@ -37,7 +37,7 @@ No development setup, just copy this directory into the htdocs folder and run as
 
 ## Meta
 
-Handoko Adji Pangestu – [@handokoadjip](https://www.instagram.com/handokoadp/) – handokoadjipangestu@gmail.com
+Handoko Adji Pangestu – [@handokoadp](https://www.instagram.com/handokoadp/) – handokoadjipangestu@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
